@@ -1,0 +1,8 @@
+Escolha: 1
+Nome: geladeira
+Descrição: duas portas
+Categoria: eletrodomesticos
+Quantidade em estoque: 5
+Quantidade mínima: 1
+Preço: 1,500 
+Produto cadastrado com sucesso!
